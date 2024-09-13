@@ -1,0 +1,381 @@
+YearofManufacture,Brand,CarName,KilometersDriven,FuelType,Transmission,Price,Location,PricePerKm
+2017,Datsun, Go Plus T,17062,Petrol,Manual,302000,"Mulund West, Mumbai",17.700152385417887
+2018,Datsun, Redi Go A,50310,Petrol,Manual,227000,"Goregaon, Mumbai",4.512025442258
+2018,Datsun, Redi Go S 1.0 AMT,86337,Petrol,Automatic,252999,"Goregaon, Mumbai",2.9303658917961015
+2016,Ford, Ecosport TITANIUM 1.5L PETROL AT,73952,Petrol,Automatic,542000,"Goregaon, Mumbai",7.329078321073129
+2018,Ford, FREESTYLE TREND 1.5 DIESEL,46080,Diesel,Manual,511000,"Goregaon, Mumbai",11.089409722222221
+2018,Ford, FREESTYLE TITANIUM 1.5 DIESEL,75160,Diesel,Manual,601000,"Mulund West, Mumbai",7.996274614156466
+2019,Ford, Ecosport TITANIUM 1.0L ECOBOOST SPORTS(SUNROOF),30825,Petrol,Manual,758000,"Mulund West, Mumbai",24.5904298459043
+2011,Honda, City 1.5L I-VTEC V MT,90143,Petrol,Manual,254000,"Mulund West, Mumbai",2.817745138280288
+2014,Honda, Amaze 1.2L I-VTEC S,52803,Petrol,Manual,354000,"Mulund West, Mumbai",6.704164536105903
+2014,Honda, City 1.5L I-VTEC VX,34473,Petrol,Manual,532000,"Goregaon, Mumbai",15.43236735996287
+2014,Honda, City 1.5L I-VTEC V MT,61542,Petrol,Manual,449000,"Mulund West, Mumbai",7.295830489746839
+2014,Honda, City 1.5L I-VTEC SV CVT,45962,Petrol,Automatic,493000,"Goregaon, Mumbai",10.72625212131761
+2014,Honda, City 1.5L I-VTEC VX,74005,Petrol,Manual,517000,"Goregaon, Mumbai",6.9860144584825346
+2015,Honda, City 1.5L I-VTEC VX,18779,Petrol,Manual,621000,Seawoo,33.068853506576495
+2015,Honda, City 1.5L I-VTEC S MT,79079,Petrol,Manual,422000,"Goregaon, Mumbai",5.336435716182551
+2015,Honda, City 1.5L I-VTEC VX,61228,Petrol,Manual,516000,Seawoo,8.427516822368851
+2015,Honda, City 1.5L I-VTEC VX,75533,Petrol,Manual,537000,"Goregaon, Mumbai",7.109475328664292
+2015,Honda, City 1.5L I-VTEC V MT,73939,Petrol,Manual,446000,"Goregaon, Mumbai",6.031999350816213
+2015,Honda, City 1.5L I-VTEC SV,61177,Petrol,Manual,466000,"Goregaon, Mumbai",7.617241773869265
+2015,Honda, Jazz 1.2L I-VTEC V AT,34003,Petrol,Automatic,470000,"Goregaon, Mumbai",13.822309796194453
+2015,Honda, City 1.5L I-VTEC VX,100831,Petrol,Manual,455999,"Mulund West, Mumbai",4.5224087830131605
+2015,Honda, City 1.5L I-VTEC SV,41887,Petrol,Manual,466000,"Goregaon, Mumbai",11.12517010050851
+2016,Honda, BR-V 1.5L I-VTEC V,25920,Petrol,Manual,690000,"Goregaon, Mumbai",26.62037037037037
+2016,Honda, City 1.5L I-VTEC V MT,63698,CNG,Manual,560000,Seawoo,8.791484818989607
+2016,Honda, City 1.5L I-VTEC VX CVT,67149,Petrol,Automatic,681000,"Goregaon, Mumbai",10.141625340660323
+2016,Honda, City 1.5L I-VTEC VX CVT,75181,Petrol,Automatic,655000,Seawoo,8.712307630917387
+2016,Honda, Jazz 1.2L I-VTEC V AT,37586,Petrol,Automatic,496000,"Goregaon, Mumbai",13.196402915979354
+2016,Honda, City 1.5L I-VTEC VX CVT,51329,Petrol,Automatic,630000,"Mulund West, Mumbai",12.273763369635098
+2016,Honda, City 1.5L I-VTEC VX CVT,59039,Petrol,Automatic,627000,"Goregaon, Mumbai",10.62009857890547
+2016,Honda, City 1.5L I-VTEC VX CVT,73098,Petrol,Automatic,666000,"Goregaon, Mumbai",9.111056390051711
+2017,Honda, BR-V 1.5L I-VTEC S,56807,Petrol,Manual,615000,"Goregaon, Mumbai",10.826130582498635
+2017,Honda, BR-V 1.5L I-VTEC S,18243,Petrol,Manual,680000,"Goregaon, Mumbai",37.27457106835499
+2017,Honda, City 1.5L I-VTEC ZX CVT,33613,Petrol,Automatic,768000,"Mulund West, Mumbai",22.848302740011306
+2017,Honda, City 1.5L I-VTEC V MT,38411,Petrol,Manual,672000,Seawoo,17.494988414777016
+2017,Honda, Jazz 1.2L I-VTEC V AT,45773,Petrol,Automatic,466000,"Mulund West, Mumbai",10.180674196578769
+2017,Honda, City 1.5L I-VTE V CVT,68950,Petrol,Automatic,654000,"Mulund West, Mumbai",9.485134155184916
+2017,Honda, City 1.5L I-VTE V CVT,42838,Petrol,Automatic,715000,Seawoo,16.690788552219992
+2017,Honda, BR-V 1.5L I-VTEC V CVT,75870,Petrol,Automatic,650000,"Goregaon, Mumbai",8.567286147357322
+2018,Honda, WR-V 1.2L I-VTEC VX MT,59897,Petrol,Manual,711000,"Goregaon, Mumbai",11.870377481342972
+2018,Honda, Amaze 1.2L I-VTEC V CVT,62953,Petrol,Automatic,599000,"Mulund West, Mumbai",9.515035026130606
+2018,Honda, Amaze 1.2L I-VTEC V CVT,20920,Petrol,Automatic,633000,"Mulund West, Mumbai",30.25812619502868
+2018,Honda, City 1.5L I-VTEC V MT,47801,Petrol,Manual,719000,"Goregaon, Mumbai",15.04152632790109
+2018,Honda, WR-V 1.2L I-VTEC VX MT,44848,Petrol,Manual,647000,"Goregaon, Mumbai",14.426507313592579
+2018,Honda, Amaze 1.2L I-VTEC VX,47710,Petrol,Manual,567000,Seawoo,11.884300985118424
+2018,Honda, WR-V 1.2L I-VTEC VX MT,45344,Petrol,Manual,607000,Seawoo,13.386556104446013
+2018,Honda, WR-V 1.2L I-VTEC VX MT,22652,Petrol,Manual,683000,"Mulund West, Mumbai",30.15186297015716
+2018,Honda, BR-V 1.5L I-VTEC VX,106523,Petrol,Manual,724000,"Goregaon, Mumbai",6.796654243684462
+2018,Honda, City 1.5L I-VTEC VX,49716,Petrol,Manual,811000,"Goregaon, Mumbai",16.312655885429237
+2018,Honda, City 1.5L I-VTEC V MT,93703,Petrol,Manual,661000,"Goregaon, Mumbai",7.054203173857827
+2019,Honda, City 1.5L I-VTEC VX CVT,54705,Petrol,Automatic,958000,"Goregaon, Mumbai",17.512110410382963
+2019,Honda, WR-V 1.2L I-VTEC VX MT,70985,Petrol,Manual,654000,"Mulund West, Mumbai",9.213214059308305
+2019,Honda, Amaze 1.5L I-DTEC V CVT,55833,Diesel,Automatic,716000,"Goregaon, Mumbai",12.823957157953181
+2020,Honda, City 1.5L I-VTEC ZX,27473,Petrol,Manual,1016000,"Goregaon, Mumbai",36.981763913660686
+2020,Honda, WR-V 1.2L I-VTEC VX MT,42897,Petrol,Manual,740000,"Mulund West, Mumbai",17.250623586731006
+2020,Honda, City 1.5L I-VTEC VX CVT,26350,Petrol,Automatic,1019999,"Goregaon, Mumbai",38.7096394686907
+2021,Honda, Jazz 1.2L I-VTEC ZX CVT,10102,Petrol,Automatic,859000,"Goregaon, Mumbai",85.03266679865374
+2021,Honda, City 1.5L I-VTEC ZX CVT,22827,Petrol,Automatic,1279000,"Mulund West, Mumbai",56.03013974679108
+2022,Honda, Jazz 1.2L I-VTEC VX CVT,4980,Petrol,Automatic,902999,Seawoo,181.32510040160642
+2011,Hyundai, i10 MAGNA 1.1,79326,Petrol,Manual,194000,"Goregaon, Mumbai",2.44560421551572
+2011,Hyundai, i20 ASTA 1.2,31724,Petrol,Manual,221000,"Goregaon, Mumbai",6.966334636237549
+2011,Hyundai, i20 SPORTZ 1.2,122248,Petrol,Manual,225000,"Mulund West, Mumbai",1.8405209083175185
+2011,Hyundai, i20 SPORTZ (O) 1.2,72888,Petrol,Manual,254999,Seawoo,3.498504554933597
+2011,Hyundai, i10 SPORTZ 1.2 AT,51696,Petrol,Automatic,252000,"Goregaon, Mumbai",4.874651810584958
+2011,Hyundai, i10 SPORTZ 1.2,30522,Petrol,Manual,200000,"Goregaon, Mumbai",6.552650547146321
+2012,Hyundai, i10 SPORTZ 1.2,35431,Petrol,Manual,233000,"Mulund West, Mumbai",6.576162117919337
+2013,Hyundai, i10 SPORTZ 1.2 AT,48080,Petrol,Automatic,276000,"Goregaon, Mumbai",5.740432612312812
+2013,Hyundai, Grand i10 ERA 1.2 KAPPA VTVT,42124,Petrol,Manual,304000,"Mulund West, Mumbai",7.216788529104549
+2013,Hyundai, Grand i10 ASTA 1.2 KAPPA VTVT,37652,Petrol,Manual,395000,"Mulund West, Mumbai",10.49081058111123
+2014,Hyundai, Grand i10 MAGNA 1.2 KAPPA VTVT,32064,Petrol,Manual,314000,"Mulund West, Mumbai",9.792914171656687
+2014,Hyundai, Grand i10 ASTA 1.2 KAPPA VTVT,47635,Petrol,Manual,393000,"Mulund West, Mumbai",8.250236170882754
+2014,Hyundai, Xcent S 1.2,95827,Petrol,Manual,343000,"Mulund West, Mumbai",3.5793669842528724
+2014,Hyundai, i10 SPORTZ 1.1,40543,Petrol,Manual,260000,"Mulund West, Mumbai",6.412944281380263
+2014,Hyundai, i20 SPORTZ 1.2,35207,Petrol,Manual,366000,"Goregaon, Mumbai",10.395659953986423
+2014,Hyundai, i10 SPORTZ 1.1,49875,CNG,Manual,287000,Seawoo,5.754385964912281
+2014,Hyundai, Xcent S 1.2,36391,Petrol,Manual,378000,"Mulund West, Mumbai",10.387183644307658
+2014,Hyundai, i10 SPORTZ 1.1,21258,Petrol,Manual,304000,"Mulund West, Mumbai",14.300498635807696
+2014,Hyundai, Elite i20 SPORTZ 1.2 (O),79418,Petrol,Manual,418000,"Goregaon, Mumbai",5.263290437935984
+2014,Hyundai, Elite i20 SPORTZ 1.2,60702,Petrol,Manual,411000,"Goregaon, Mumbai",6.770781852327765
+2014,Hyundai, Xcent S 1.2,83669,Petrol,Manual,359000,"Goregaon, Mumbai",4.290716991956399
+2014,Hyundai, Xcent S 1.2,55106,Petrol,Manual,370000,"Mulund West, Mumbai",6.714332377599535
+2014,Hyundai, Xcent BASE 1.2,54098,Petrol,Manual,356000,"Mulund West, Mumbai",6.580649931605604
+2015,Hyundai, Verna FLUIDIC 4S 1.6 VTVT S,38877,Petrol,Manual,516000,"Goregaon, Mumbai",13.272629060884327
+2015,Hyundai, i20 Active 1.2 S,53664,Petrol,Manual,478000,"Mulund West, Mumbai",8.907274895646989
+2015,Hyundai, Grand i10 ASTA AT 1.2 KAPPA VTVT,54434,Petrol,Automatic,400000,"Mulund West, Mumbai",7.348348458683911
+2015,Hyundai, Elite i20 SPORTZ 1.2,52696,Petrol,Manual,432000,"Goregaon, Mumbai",8.197965689995446
+2015,Hyundai, Creta S 1.6 PETROL,76643,Petrol,Manual,632000,"Goregaon, Mumbai",8.246023772555876
+2015,Hyundai, i20 Active 1.2 SX,116615,Petrol,Manual,429000,"Mulund West, Mumbai",3.6787720276122284
+2015,Hyundai, Grand i10 ASTA 1.2 KAPPA VTVT,47367,Petrol,Manual,389000,Seawoo,8.212468596280111
+2015,Hyundai, Elite i20 ASTA 1.2,55046,Petrol,Manual,454000,"Goregaon, Mumbai",8.247647422156016
+2015,Hyundai, i20 Active 1.4 SX,77421,Diesel,Manual,504000,"Goregaon, Mumbai",6.509861665439609
+2015,Hyundai, Elite i20 SPORTZ 1.2,30141,Petrol,Manual,426999,"Mulund West, Mumbai",14.166716432766
+2015,Hyundai, i10 MAGNA 1.1,22225,Petrol,Manual,323000,"Goregaon, Mumbai",14.53318335208099
+2015,Hyundai, Creta SX 1.6 DIESEL,62018,Diesel,Manual,811000,"Goregaon, Mumbai",13.076848656841563
+2016,Hyundai, Creta SX PLUS AT 1.6 PETROL,83626,Petrol,Automatic,853999,"Goregaon, Mumbai",10.212123023939922
+2016,Hyundai, Creta SX PLUS AT 1.6 DIESEL,63824,Diesel,Automatic,846000,"Mulund West, Mumbai",13.25520180496365
+2016,Hyundai, Grand i10 SPORTZ 1.2 KAPPA VTVT,59893,Petrol,Manual,372000,Seawoo,6.21107641961498
+2016,Hyundai, i20 Active 1.2 S,66332,Petrol,Manual,459999,"Mulund West, Mumbai",6.934797684375566
+2016,Hyundai, Creta SX PLUS AT 1.6 DIESEL,33417,Diesel,Automatic,834000,"Goregaon, Mumbai",24.95735703384505
+2016,Hyundai, Elite i20 SPORTZ 1.2,52544,Petrol,Manual,428000,"Goregaon, Mumbai",8.145554202192448
+2016,Hyundai, Elite i20 SPORTZ 1.2,16301,Petrol,Manual,521000,"Goregaon, Mumbai",31.961229372431138
+2016,Hyundai, Creta SX PLUS 1.6 PETROL,71684,Petrol,Manual,706000,"Goregaon, Mumbai",9.848780760002231
+2016,Hyundai, Creta BASE 1.6 PETROL,53911,Petrol,Manual,658000,"Goregaon, Mumbai",12.205301329969766
+2016,Hyundai, Xcent S 1.2,95851,Petrol,Manual,338000,"Mulund West, Mumbai",3.52630645481007
+2016,Hyundai, Creta E PLUS 1.6 PETROL,56586,Petrol,Manual,665000,"Mulund West, Mumbai",11.752023468702506
+2016,Hyundai, Elite i20 SPORTZ 1.2,46186,Petrol,Manual,501999,"Goregaon, Mumbai",10.869072879227472
+2016,Hyundai, Elite i20 SPORTZ 1.2,50900,Petrol,Manual,501999,"Mulund West, Mumbai",9.8624557956778
+2016,Hyundai, Creta SX PLUS AT 1.6 PETROL,57440,Petrol,Automatic,764000,"Goregaon, Mumbai",13.300835654596101
+2016,Hyundai, i20 Active 1.2 SX,50568,Petrol,Manual,490000,Seawoo,9.689922480620154
+2016,Hyundai, Elite i20 ASTA 1.2,46613,Petrol,Manual,504000,"Mulund West, Mumbai",10.81243429944436
+2017,Hyundai, Verna 1.6 VTVT SX O,94385,Petrol,Manual,650000,"Mulund West, Mumbai",6.886687503310908
+2017,Hyundai, Creta SX PLUS 1.6 DIESEL,5555,Diesel,Manual,911000,"Goregaon, Mumbai",163.99639963996398
+2017,Hyundai, Creta E PLUS 1.6 PETROL,43358,Petrol,Manual,764000,"Goregaon, Mumbai",17.620738963974354
+2017,Hyundai, Elite i20 SPORTZ 1.2,11293,Petrol,Manual,513000,"Mulund West, Mumbai",45.426370317896044
+2017,Hyundai, Verna 1.6 SX (O) CRDI MT,57368,Diesel,Manual,860000,"Mulund West, Mumbai",14.99093571328964
+2017,Hyundai, Elite i20 SPORTZ 1.2,41718,Petrol,Manual,469000,"Mulund West, Mumbai",11.242149671604583
+2017,Hyundai, Grand i10 SPORTZ 1.2 KAPPA VTVT,21635,Petrol,Manual,449000,"Goregaon, Mumbai",20.753408828287498
+2017,Hyundai, Creta E PLUS 1.6 PETROL,89501,Petrol,Manual,675000,"Goregaon, Mumbai",7.541815175249439
+2017,Hyundai, Xcent E+,17771,Petrol,Manual,476999,"Goregaon, Mumbai",26.84142704406055
+2017,Hyundai, Creta E PLUS 1.6 PETROL,37417,Petrol,Manual,733000,"Goregaon, Mumbai",19.59002592404522
+2017,Hyundai, Creta E PLUS 1.6 PETROL,51559,Petrol,Manual,763000,"Goregaon, Mumbai",14.798580267266626
+2017,Hyundai, Creta SX PLUS AT 1.6 DIESEL,79836,Diesel,Automatic,972000,"Mulund West, Mumbai",12.174958665263791
+2017,Hyundai, Elite i20 SPORTZ 1.2,19288,Petrol,Manual,551000,"Goregaon, Mumbai",28.566984653670676
+2017,Hyundai, Creta SX PLUS AT 1.6 PETROL,22311,Petrol,Automatic,966000,"Goregaon, Mumbai",43.29702837165524
+2017,Hyundai, Creta SX PLUS AT 1.6 PETROL,60607,Petrol,Automatic,819000,"Mulund West, Mumbai",13.513290543996568
+2017,Hyundai, Elite i20 ASTA 1.4 CRDI (O),90918,Diesel,Manual,645000,"Goregaon, Mumbai",7.094304758133703
+2017,Hyundai, Creta E PLUS 1.6 PETROL,39827,Petrol,Manual,733000,"Goregaon, Mumbai",18.404599894543903
+2017,Hyundai, Creta E PLUS 1.6 PETROL,75175,Petrol,Manual,738000,"Mulund West, Mumbai",9.817093448619888
+2017,Hyundai, Elite i20 SPORTZ 1.2,38323,Petrol,Manual,538000,"Mulund West, Mumbai",14.038566918038775
+2017,Hyundai, Creta SX PLUS AT 1.6 PETROL,86350,Petrol,Automatic,810000,"Mulund West, Mumbai",9.380428488708743
+2017,Hyundai, Grand i10 SPORTZ (O) AT 1.2 KAPPA VTVT,25723,Petrol,Automatic,519000,"Mulund West, Mumbai",20.176495743109278
+2017,Hyundai, Elite i20 SPORTZ 1.2,53262,Petrol,Manual,547000,"Goregaon, Mumbai",10.269986106417333
+2017,Hyundai, Creta E PLUS 1.6 PETROL,23252,Petrol,Manual,730000,"Mulund West, Mumbai",31.395148804403924
+2017,Hyundai, Creta SX PLUS AT 1.6 PETROL,91055,Petrol,Automatic,850000,"Goregaon, Mumbai",9.335017297237933
+2017,Hyundai, Grand i10 ASTA 1.2 KAPPA VTVT,44823,Petrol,Manual,453000,"Goregaon, Mumbai",10.106418579747006
+2017,Hyundai, Elite i20 SPORTZ 1.2,44558,Petrol,Manual,536000,"Goregaon, Mumbai",12.029265227344135
+2017,Hyundai, Creta E PLUS 1.6 PETROL,77926,Petrol,Manual,743000,"Goregaon, Mumbai",9.534686754100044
+2018,Hyundai, Elite i20 ASTA 1.2  CVT,29769,Petrol,Automatic,615000,"Mulund West, Mumbai",20.65907487654943
+2018,Hyundai, Verna 1.6 VTVT SX,24675,Petrol,Manual,721000,"Goregaon, Mumbai",29.21985815602837
+2018,Hyundai, i20 Active 1.2 SX,85880,Petrol,Manual,583000,"Goregaon, Mumbai",6.788542151839777
+2018,Hyundai, Grand i10 SPORTZ AT 1.2 KAPPA VTVT,46597,Petrol,Automatic,527000,"Goregaon, Mumbai",11.309740970448741
+2018,Hyundai, Creta SX PLUS 1.6 PETROL DUAL TONE,50556,Petrol,Manual,835000,Seawoo,16.516338317904896
+2018,Hyundai, Creta SX (O) 1.6 DIESEL,66962,Diesel,Manual,1018000,"Mulund West, Mumbai",15.202652250530152
+2018,Hyundai, Grand i10 MAGNA 1.2 KAPPA VTVT,38780,Petrol,Manual,451999,"Mulund West, Mumbai",11.655466735430634
+2018,Hyundai, Creta SX AT 1.6 PETROL,57206,Petrol,Automatic,1030000,"Goregaon, Mumbai",18.00510435968255
+2018,Hyundai, i20 Active 1.2 SX,21643,Petrol,Manual,596000,"Mulund West, Mumbai",27.53777202790741
+2018,Hyundai, Creta SX AT 1.6 PETROL,50441,Petrol,Automatic,1027000,"Mulund West, Mumbai",20.360421086021294
+2018,Hyundai, Grand i10 MAGNA 1.2 KAPPA VTVT,45213,Petrol,Manual,455999,"Mulund West, Mumbai",10.08557273350585
+2018,Hyundai, Grand i10 SPORTZ AT 1.2 KAPPA VTVT,86975,Petrol,Automatic,509000,"Goregaon, Mumbai",5.852256395515953
+2018,Hyundai, Elite i20 ASTA 1.2 (O),56236,Petrol,Manual,597000,Seawoo,10.615975531687887
+2018,Hyundai, Grand i10 MAGNA 1.2 KAPPA VTVT,32749,CNG,Manual,484000,"Goregaon, Mumbai",14.779077223732022
+2018,Hyundai, Grand i10 SPORTZ 1.2 KAPPA VTVT,20257,Petrol,Manual,469000,"Mulund West, Mumbai",23.152490497112108
+2019,Hyundai, Elite i20 ASTA 1.2 (O),40998,Petrol,Manual,577000,"Goregaon, Mumbai",14.07385726132982
+2019,Hyundai, VENUE SX PLUS 1.0 TURBO DCT,43419,Petrol,Automatic,922000,"Goregaon, Mumbai",21.234943227619244
+2019,Hyundai, VENUE SX PLUS 1.0 TURBO DCT,56522,Petrol,Automatic,919000,"Goregaon, Mumbai",16.259155726973567
+2019,Hyundai, Verna 1.6 VTVT SX O,47605,Petrol,Manual,924000,"Goregaon, Mumbai",19.409725869131393
+2019,Hyundai, Creta SX 1.6 PETROL,70430,Petrol,Manual,838000,"Goregaon, Mumbai",11.898338776089734
+2019,Hyundai, NEW SANTRO ERA EXECUTIVE,56077,Petrol,Manual,409999,"Goregaon, Mumbai",7.311357597589029
+2019,Hyundai, NEW SANTRO SPORTZ CNG,73820,CNG,Manual,457000,"Mulund West, Mumbai",6.1907342183690055
+2019,Hyundai, VENUE SX PLUS 1.0 TURBO DCT,41597,Petrol,Automatic,922000,Seawoo,22.16505998028704
+2019,Hyundai, NEW SANTRO SPORTZ CNG,70159,CNG,Manual,457000,Seawoo,6.513775851993329
+2019,Hyundai, VENUE SX PLUS 1.0 TURBO DCT,113669,Petrol,Automatic,810000,"Goregaon, Mumbai",7.125953426176002
+2019,Hyundai, GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT DUAL TONE,30977,Petrol,Manual,574000,"Goregaon, Mumbai",18.529877005520223
+2019,Hyundai, Verna 1.6 VTVT SX O,92561,Petrol,Manual,911999,"Goregaon, Mumbai",9.852951026890375
+2019,Hyundai, VENUE SX 1.0 TURBO,34899,Petrol,Manual,852000,"Mulund West, Mumbai",24.41330697154646
+2020,Hyundai, AURA SX PLUS 1.2 AMT CRDI,58033,Diesel,Automatic,684000,"Goregaon, Mumbai",11.786397394585839
+2021,Hyundai, NEW I20 ASTA (O) 1.0 TURBO GDI DCT,14008,Petrol,Automatic,966000,"Goregaon, Mumbai",68.9605939463164
+2021,Hyundai, VENUE SX 1.0 TURBO IMT,9981,Petrol,Manual,935000,"Mulund West, Mumbai",93.67798817753732
+2021,Hyundai, VENUE SX 1.0 TURBO IMT,15019,Petrol,Manual,927000,"Mulund West, Mumbai",61.72181902922964
+2021,Hyundai, Creta SX (O) 1.4 TURBO DCT,47485,Petrol,Automatic,1446000,"Goregaon, Mumbai",30.451721596293567
+2021,Hyundai, VENUE SX 1.0 TURBO,34705,Petrol,Manual,839000,"Mulund West, Mumbai",24.175190894683762
+2021,Hyundai, VENUE S 1.0 TURBO IMT,49880,Petrol,Manual,827000,"Mulund West, Mumbai",16.579791499599036
+2021,Hyundai, VENUE SX PLUS 1.0 TURBO DCT,48355,Petrol,Automatic,955000,"Mulund West, Mumbai",19.74976734567263
+2022,Hyundai, GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,20040,Petrol,Manual,649000,"Mulund West, Mumbai",32.38522954091816
+2022,Hyundai, GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT CNG,21570,CNG,Manual,745000,"Mulund West, Mumbai",34.53871117292536
+2022,Hyundai, AURA SX PLUS 1.2 AMT,20883,Petrol,Automatic,802000,"Goregaon, Mumbai",38.40444380596657
+2022,Hyundai, GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT CNG,15638,CNG,Manual,694000,"Goregaon, Mumbai",44.379076608261926
+2023,Hyundai, AURA SX 1.2 CNG,13184,CNG,Manual,834000,"Goregaon, Mumbai",63.258495145631066
+2023,Hyundai, NEW I20 ASTA (O) 1.0 TURBO GDI DCT,20047,Petrol,Automatic,1074000,"Goregaon, Mumbai",53.57410086297202
+2017,Jeep, Compass LIMITED 2.0 DIESEL,66096,Diesel,Manual,902999,"Goregaon, Mumbai",13.661931130476882
+2018,Jeep, Compass LONGITUDE 2.0 DIESEL,44734,Diesel,Manual,1019000,"Mulund West, Mumbai",22.77909420127867
+2019,Jeep, Compass SPORT 1.4 PETROL,10405,Petrol,Manual,1052000,"Goregaon, Mumbai",101.10523786641038
+2019,Jeep, Compass LIMITED PLUS PETROL AT,36921,Petrol,Automatic,1469000,"Goregaon, Mumbai",39.787654722244795
+2021,Jeep, Compass SPORT 1.4 PETROL DCT,21250,Petrol,Automatic,1489000,"Mulund West, Mumbai",70.07058823529412
+2020,KIA, SELTOS HTK PLUS 1.5,48880,Petrol,Manual,1035000,"Mulund West, Mumbai",21.17430441898527
+2020,KIA, SONET GTX PLUS 1.0 IMT,35415,Petrol,Manual,988000,"Goregaon, Mumbai",27.897783425102357
+2020,KIA, SELTOS HTK PLUS 1.5,15160,Petrol,Manual,1101000,"Goregaon, Mumbai",72.62532981530343
+2020,KIA, SELTOS GTX PLUS DCT 1.4 PETROL,65200,Petrol,Automatic,1365000,"Mulund West, Mumbai",20.93558282208589
+2021,KIA, SELTOS GTX PLUS DCT 1.4 PETROL,33374,Petrol,Automatic,1460000,"Goregaon, Mumbai",43.74662911248277
+2022,KIA, SONET GTX PLUS 1.5,28326,Diesel,Manual,1260000,"Goregaon, Mumbai",44.48210124973522
+2019,MG, HECTOR SHARP 1.5 DCT PETROL,18601,Petrol,Automatic,1360000,"Mulund West, Mumbai",73.1143486909306
+2019,MG, HECTOR SHARP 1.5 DCT PETROL,19795,Petrol,Automatic,1321000,"Mulund West, Mumbai",66.73402374336953
+2019,MG, HECTOR SHARP 1.5 DCT PETROL,25760,Petrol,Automatic,1299000,"Goregaon, Mumbai",50.42701863354037
+2019,MG, HECTOR SHARP 1.5 DCT PETROL,64742,Petrol,Automatic,1324000,"Goregaon, Mumbai",20.45040313861172
+2017,Mahindra, XUV500 W6 AT,66595,Diesel,Automatic,793000,"Goregaon, Mumbai",11.9078008859524
+2017,Mahindra, XUV500 W10 AT,57449,Diesel,Automatic,1115000,"Mulund West, Mumbai",19.408518860206446
+2017,Mahindra, XUV500 W10 AT,85662,Diesel,Automatic,1027000,"Mulund West, Mumbai",11.98897994443277
+2018,Mahindra, XUV500 W7,67404,Diesel,Manual,975000,"Goregaon, Mumbai",14.465016912942852
+2019,Mahindra, XUV300 W8 1.5 DIESEL,51938,Diesel,Manual,866000,"Mulund West, Mumbai",16.67372636605183
+2019,Mahindra, XUV300 W6 1.2 PETROL,39094,Petrol,Manual,748000,Seawoo,19.133370849746765
+2022,Mahindra, Thar LX  P 4WD AT CONVERTIBLE,11951,Petrol,Automatic,1449000,"Goregaon, Mumbai",121.24508409338131
+2023,Mahindra, Thar LX P 2WD AT HT,10637,Petrol,Automatic,1403000,"Goregaon, Mumbai",131.8980915671712
+2012,Maruti, Wagon R 1.0 VXI,42531,Petrol,Manual,225000,"Goregaon, Mumbai",5.290258870000705
+2012,Maruti, Swift Dzire ZXI,60719,Petrol,Manual,334000,Seawoo,5.500749353579605
+2012,Maruti, Wagon R 1.0 VXI,43569,Petrol,Manual,233000,Seawoo,5.347839059882026
+2012,Maruti, Swift VXI,15045,Petrol,Manual,315000,"Mulund West, Mumbai",20.937188434695912
+2013,Maruti, Swift ZXI,42338,Petrol,Manual,341000,"Mulund West, Mumbai",8.05423024233549
+2013,Maruti, Swift Dzire VXI,33244,Petrol,Manual,367000,"Mulund West, Mumbai",11.039586090723137
+2013,Maruti, Wagon R Stingray VXI,35954,Petrol,Manual,295000,"Goregaon, Mumbai",8.204928519775269
+2013,Maruti, Wagon R 1.0 LXI CNG,80601,CNG,Manual,273000,"Mulund West, Mumbai",3.387054751181747
+2013,Maruti, Swift Dzire ZDI,120050,Diesel,Manual,438000,"Mulund West, Mumbai",3.6484798000832988
+2013,Maruti, Wagon R 1.0 LXI CNG,75349,CNG,Manual,269000,"Mulund West, Mumbai",3.570054015315399
+2013,Maruti, Ertiga ZXI,41016,Petrol,Manual,529000,"Mulund West, Mumbai",12.89740589038424
+2013,Maruti, Wagon R 1.0 VXI,45304,Petrol,Manual,270000,"Mulund West, Mumbai",5.95973865442345
+2013,Maruti, Wagon R 1.0 VXI,44412,Petrol,Manual,269000,"Mulund West, Mumbai",6.056921552733495
+2013,Maruti, Wagon R 1.0 VXI,68427,Petrol,Manual,263000,"Mulund West, Mumbai",3.8435120639513642
+2014,Maruti, Swift Dzire ZDI,11144,Diesel,Manual,613000,"Goregaon, Mumbai",55.007178750897346
+2014,Maruti, Celerio VXI CNG,78331,CNG,Manual,339000,"Goregaon, Mumbai",4.327788487316644
+2014,Maruti, Wagon R 1.0 VXI,43024,Petrol,Manual,297000,"Mulund West, Mumbai",6.903123837857939
+2014,Maruti, Celerio VXI,66046,Petrol,Manual,299000,"Mulund West, Mumbai",4.527147745510705
+2014,Maruti, Swift VXI,69389,Petrol,Manual,333000,"Goregaon, Mumbai",4.799031546786955
+2014,Maruti, Swift VXI,29876,Petrol,Manual,393000,"Goregaon, Mumbai",13.154371401794082
+2014,Maruti, Celerio VXI AMT,32718,Petrol,Automatic,329000,"Goregaon, Mumbai",10.055626872058195
+2014,Maruti, Celerio VXI AMT,76296,Petrol,Automatic,312000,"Mulund West, Mumbai",4.089336269267065
+2014,Maruti, Ertiga VDI,119998,Diesel,Manual,591000,"Goregaon, Mumbai",4.925082084701412
+2014,Maruti, Swift Dzire ZDI,114899,Diesel,Manual,465000,"Mulund West, Mumbai",4.047032611249881
+2014,Maruti, Wagon R 1.0 VXI,53375,Petrol,Manual,274000,"Mulund West, Mumbai",5.133489461358314
+2014,Maruti, Swift VXI,53120,Petrol,Manual,371000,"Goregaon, Mumbai",6.984186746987952
+2014,Maruti, Wagon R 1.0 LXI,67447,Petrol,Manual,283000,"Mulund West, Mumbai",4.195887141014426
+2014,Maruti, Wagon R 1.0 LXI CNG,99498,CNG,Manual,279000,"Mulund West, Mumbai",2.8040764638485194
+2014,Maruti, Celerio VXI AMT,98502,Petrol,Automatic,318000,"Goregaon, Mumbai",3.2283608454650667
+2014,Maruti, Wagon R 1.0 LXI CNG,105898,CNG,Manual,279000,"Mulund West, Mumbai",2.634610663090899
+2015,Maruti, Alto K10 VXI,51243,Petrol,Manual,243000,"Mulund West, Mumbai",4.742111117616065
+2015,Maruti, Wagon R 1.0 VXI,34384,Petrol,Manual,339000,"Goregaon, Mumbai",9.859236854350861
+2015,Maruti, Swift VXI,76928,Petrol,Manual,389000,"Goregaon, Mumbai",5.056676372712146
+2015,Maruti, Wagon R 1.0 VXI AMT,95214,Petrol,Automatic,298000,"Mulund West, Mumbai",3.129791837334846
+2015,Maruti, Alto 800 LXI CNG,68920,CNG,Manual,240000,"Mulund West, Mumbai",3.482298316889147
+2015,Maruti, Baleno ALPHA DIESEL 1.3,59958,Diesel,Manual,546000,"Goregaon, Mumbai",9.106374462123487
+2015,Maruti, Wagon R 1.0 VXI,16624,Petrol,Manual,339000,"Mulund West, Mumbai",20.39220404234841
+2015,Maruti, Ertiga ZDI,74875,Diesel,Manual,709000,"Goregaon, Mumbai",9.469115191986644
+2015,Maruti, Ertiga ZXI,48033,Petrol,Manual,647000,"Mulund West, Mumbai",13.469906106218641
+2015,Maruti, Celerio VXI AMT,73092,Petrol,Automatic,327000,"Goregaon, Mumbai",4.4738138236742735
+2015,Maruti, Wagon R 1.0 VXI,28048,Petrol,Manual,309000,"Goregaon, Mumbai",11.016828294352539
+2015,Maruti, Wagon R 1.0 LXI CNG,65098,CNG,Manual,339000,Seawoo,5.207533257550155
+2016,Maruti, Baleno DELTA PETROL 1.2,43273,Petrol,Manual,505000,Seawoo,11.670094516211032
+2016,Maruti, Ertiga VXI,61711,Petrol,Manual,653000,"Mulund West, Mumbai",10.581581889776539
+2016,Maruti, Alto 800 LXI,45935,Petrol,Manual,250999,"Mulund West, Mumbai",5.464221182105149
+2016,Maruti, Swift Dzire VXI,49757,Petrol,Manual,438999,"Mulund West, Mumbai",8.822859095202684
+2016,Maruti, Ertiga VXI,69763,CNG,Manual,704000,"Mulund West, Mumbai",10.091309146682338
+2016,Maruti, Swift VXI O,35970,Petrol,Manual,433000,Seawoo,12.037809285515708
+2016,Maruti, Celerio ZXI,33655,Petrol,Manual,367000,"Goregaon, Mumbai",10.90476897934928
+2016,Maruti, Baleno DELTA CVT PETROL 1.2,58631,Petrol,Automatic,484999,"Goregaon, Mumbai",8.272057444014258
+2016,Maruti, Baleno DELTA DIESEL 1.3,62767,Diesel,Manual,557000,"Mulund West, Mumbai",8.87408988799847
+2016,Maruti, Celerio ZXI AMT,76727,Petrol,Automatic,381000,"Goregaon, Mumbai",4.965657460867752
+2017,Maruti, Baleno DELTA PETROL 1.2,29835,Petrol,Manual,527000,"Goregaon, Mumbai",17.663817663817664
+2017,Maruti, Baleno ALPHA PETROL 1.2,36118,Petrol,Manual,558000,"Goregaon, Mumbai",15.449360429702642
+2017,Maruti, Celerio ZXI,27882,Petrol,Manual,388000,"Goregaon, Mumbai",13.915787963560721
+2017,Maruti, Ciaz ZDI+ SHVS,75650,Diesel,Manual,604000,"Mulund West, Mumbai",7.984137475214805
+2017,Maruti, Baleno ZETA PETROL 1.2,49544,Petrol,Manual,454000,"Mulund West, Mumbai",9.163571774584208
+2017,Maruti, Celerio VXI,25368,Petrol,Manual,387000,"Goregaon, Mumbai",15.255439924314096
+2017,Maruti, Baleno ALPHA DIESEL 1.3,73649,Diesel,Manual,556000,Seawoo,7.5493217830520445
+2017,Maruti, Swift VXI,57535,Petrol,Manual,474000,"Goregaon, Mumbai",8.238463543929782
+2017,Maruti, IGNIS DELTA 1.2,30176,Petrol,Manual,438000,Seawoo,14.514846235418876
+2017,Maruti, IGNIS ZETA 1.2 AMT DUAL TONE,38048,Petrol,Automatic,475000,"Goregaon, Mumbai",12.484230445752733
+2017,Maruti, Celerio VXI CNG,74159,CNG,Manual,397000,"Mulund West, Mumbai",5.353362370042746
+2017,Maruti, Wagon R 1.0 VXI,22280,Petrol,Manual,384000,"Mulund West, Mumbai",17.235188509874327
+2017,Maruti, Wagon R 1.0 VXI OPT,43944,Petrol,Manual,361000,"Mulund West, Mumbai",8.215000910249408
+2017,Maruti, Wagon R 1.0 LXI CNG,56359,CNG,Manual,369000,"Mulund West, Mumbai",6.547312762824038
+2017,Maruti, Baleno DELTA PETROL 1.2,62669,Petrol,Manual,509999,"Goregaon, Mumbai",8.13797890504077
+2017,Maruti, Wagon R 1.0 LXI CNG,57012,CNG,Manual,369000,Seawoo,6.472321616501789
+2017,Maruti, Baleno ZETA CVT PETROL 1.2,77650,Petrol,Automatic,521000,"Goregaon, Mumbai",6.7095943335479715
+2017,Maruti, Celerio ZXI AMT,42234,Petrol,Automatic,408000,"Goregaon, Mumbai",9.660463133967893
+2018,Maruti, Baleno DELTA CVT PETROL 1.2,33974,Petrol,Automatic,581000,"Goregaon, Mumbai",17.101312768587743
+2018,Maruti, IGNIS ZETA 1.2 AMT,76787,Petrol,Automatic,454000,"Goregaon, Mumbai",5.912459140219047
+2018,Maruti, Baleno ZETA CVT PETROL 1.2,43313,Petrol,Automatic,631000,"Mulund West, Mumbai",14.56837439106042
+2018,Maruti, Dzire VXI AMT,51852,Petrol,Automatic,550000,"Goregaon, Mumbai",10.607112551106997
+2018,Maruti, Baleno ALPHA CVT PETROL 1.2,33155,Petrol,Automatic,607000,"Mulund West, Mumbai",18.30794751922787
+2018,Maruti, Baleno ALPHA CVT PETROL 1.2,44613,Petrol,Automatic,580000,"Goregaon, Mumbai",13.000694864725528
+2019,Maruti, Swift VXI,13167,Petrol,Manual,567000,"Goregaon, Mumbai",43.0622009569378
+2019,Maruti, S PRESSO VXI+,51291,Petrol,Manual,390000,"Goregaon, Mumbai",7.6036731590337485
+2019,Maruti, Baleno ZETA CVT PETROL 1.2,16282,Petrol,Automatic,641000,"Goregaon, Mumbai",39.3686279326864
+2019,Maruti, Baleno ZETA CVT PETROL 1.2,24684,Petrol,Automatic,708000,"Goregaon, Mumbai",28.68254739912494
+2019,Maruti, IGNIS ALPHA 1.2,22343,Petrol,Manual,529000,"Goregaon, Mumbai",23.676319205120173
+2019,Maruti, Ciaz DELTA AT 1.5 SHVS PETROL,54408,Petrol,Automatic,643000,"Mulund West, Mumbai",11.818114983090721
+2019,Maruti, New Wagon-R VXI 1.2,37678,Petrol,Manual,467000,"Mulund West, Mumbai",12.394500769679919
+2019,Maruti, New Wagon-R VXI 1.2,11829,Petrol,Manual,467000,"Goregaon, Mumbai",39.47924592104151
+2020,Maruti, Ciaz ALPHA  AT 1.5 SHVS PETROL,31176,Petrol,Automatic,878999,"Mulund West, Mumbai",28.194733128047215
+2020,Maruti, S Cross ALPHA AT SMART HYBRID,29624,Petrol,Automatic,1006000,"Mulund West, Mumbai",33.958952200918176
+2020,Maruti, Ciaz ALPHA  AT 1.5 SHVS PETROL,23697,Petrol,Automatic,886000,"Goregaon, Mumbai",37.388698991433515
+2020,Maruti, New Wagon-R VXI 1.2,20785,Petrol,Manual,516000,"Goregaon, Mumbai",24.82559538128458
+2021,Maruti, XL6 ALPHA MT,48740,Petrol,Manual,1027000,"Goregaon, Mumbai",21.070988920804268
+2021,Maruti, Baleno ZETA PETROL 1.2,14955,Petrol,Manual,716000,Seawoo,47.87696422601137
+2021,Maruti, New Wagon-R ZXI 1.2 AMT,26550,Petrol,Automatic,613000,"Mulund West, Mumbai",23.088512241054612
+2021,Maruti, Alto LXI,26866,Petrol,Manual,363000,"Mulund West, Mumbai",13.51150152609246
+2021,Maruti, S PRESSO VXI+,12655,Petrol,Manual,405000,"Goregaon, Mumbai",32.00316080600553
+2021,Maruti, Ciaz SIGMA 1.5 SHVS MT  PETROL,16909,Petrol,Manual,763000,Seawoo,45.12389851558342
+2021,Maruti, New Wagon-R VXI 1.2,18693,Petrol,Manual,536000,"Mulund West, Mumbai",28.67383512544803
+2021,Maruti, New Wagon-R LXI CNG 1.0,30981,CNG,Manual,562000,"Mulund West, Mumbai",18.140150414770343
+2021,Maruti, New Wagon-R LXI CNG 1.0,23233,CNG,Manual,562000,"Mulund West, Mumbai",24.189730125252872
+2021,Maruti, New Wagon-R VXI (O) 1.2,19528,Petrol,Manual,516000,"Goregaon, Mumbai",26.423596886521917
+2021,Maruti, Ciaz DELTA 1.5 SHVS MT PETROL,30926,Petrol,Manual,777000,"Goregaon, Mumbai",25.124490719782706
+2021,Maruti, New Wagon-R LXI CNG (O) 1.0,36188,CNG,Manual,582000,"Mulund West, Mumbai",16.082679341218082
+2022,Maruti, New Wagon-R VXI 1.0 AMT,28720,Petrol,Automatic,674000,"Mulund West, Mumbai",23.467966573816156
+2022,Maruti, BREZZA ZXI SMART HYBRID ,18859,Petrol,Manual,1138000,"Goregaon, Mumbai",60.342542022376584
+2022,Maruti, Ertiga ZXI (O) CNG,20619,CNG,Manual,1192000,"Mulund West, Mumbai",57.81075706872302
+2022,Maruti, BREZZA ZXI SMART HYBRID ,5377,Petrol,Manual,1159000,"Goregaon, Mumbai",215.547703180212
+2022,Maruti, S PRESSO VXI (O) CNG,31772,CNG,Manual,488000,Seawoo,15.359435981367241
+2022,Maruti, S PRESSO VXI+,10815,Petrol,Manual,476000,"Goregaon, Mumbai",44.01294498381877
+2023,Maruti, New Wagon-R LXI 1.0,1958,Petrol,Manual,589000,"Goregaon, Mumbai",300.8171603677222
+2023,Maruti, IGNIS SIGMA 1.2,4684,Petrol,Manual,533000,"Goregaon, Mumbai",113.79163108454313
+2023,Maruti, BREZZA ZXI SMART HYBRID ,10234,Petrol,Manual,1231000,"Goregaon, Mumbai",120.28532343169826
+2021,Nissan, MAGNITE XV PREMIUM,47127,Petrol,Manual,628000,"Mulund West, Mumbai",13.325694400237655
+2022,Nissan, MAGNITE XL TURBO CVT,15037,Petrol,Automatic,800000,"Goregaon, Mumbai",53.202101483008576
+2016,Renault, Kwid RXT 0.8 (O),30279,Petrol,Manual,267000,"Mulund West, Mumbai",8.817992668185871
+2016,Renault, Kwid RXT 0.8,26172,Petrol,Manual,254000,"Goregaon, Mumbai",9.705028274491823
+2016,Renault, Kwid RXT 0.8 (O),103116,Petrol,Manual,279000,"Mulund West, Mumbai",2.705690678459211
+2016,Renault, Kwid RXT 1.0,45919,Petrol,Manual,295000,"Goregaon, Mumbai",6.42435593109606
+2017,Renault, Kwid RXT 0.8,30322,Petrol,Manual,307000,"Goregaon, Mumbai",10.12466196161203
+2017,Renault, Kwid RXT 0.8,37515,Petrol,Manual,290000,"Goregaon, Mumbai",7.730241236838598
+2018,Renault, Duster 85 PS RXZ DIESEL,23337,Diesel,Manual,780000,"Mulund West, Mumbai",33.42331919269829
+2018,Renault, Kwid RXT 1.0 AMT (O),38122,Petrol,Automatic,351000,Seawoo,9.207281884476156
+2019,Renault, Kwid RXT 1.0 AMT (O),22924,Petrol,Automatic,395000,"Goregaon, Mumbai",17.230849764439014
+2019,Renault, Duster RXS OPT CVT,24015,Petrol,Automatic,747000,"Mulund West, Mumbai",31.105559025608994
+2019,Renault, Duster RXS OPT CVT,26958,Petrol,Automatic,756000,"Mulund West, Mumbai",28.043623414199867
+2020,Renault, TRIBER RXE MT,24117,Petrol,Manual,518000,"Goregaon, Mumbai",21.47862503628146
+2020,Renault, TRIBER RXZ,49842,Petrol,Manual,566000,Seawoo,11.355884595321214
+2020,Renault, Kwid RXT 1.0 (O),46581,Petrol,Manual,407000,"Goregaon, Mumbai",8.737468066378996
+2021,Renault, TRIBER RXZ AMT,35517,Petrol,Automatic,682000,Seawoo,19.202072247092943
+2021,Renault, Kiger RXL MT,46060,Petrol,Manual,538000,"Goregaon, Mumbai",11.6804168475901
+2021,Renault, TRIBER RXT,24621,Petrol,Manual,611000,"Mulund West, Mumbai",24.816213801226596
+2023,Renault, Kwid CLIMBER AMT 1.0,12014,Petrol,Automatic,552000,"Goregaon, Mumbai",45.94639587148327
+2013,Skoda, Rapid ACTIVE 1.6 MPI MT PLUS,90993,Petrol,Manual,332000,"Mulund West, Mumbai",3.6486323123756774
+2013,Skoda, Rapid AMBITION 1.6 TDI CR MT PLUS,81513,Diesel,Manual,345000,"Mulund West, Mumbai",4.232453719038681
+2013,Skoda, Rapid ACTIVE 1.6 MPI MT PLUS,47977,Petrol,Manual,354000,"Mulund West, Mumbai",7.378535548283552
+2017,Skoda, Rapid STYLE 1.6 MPI AT,89856,Petrol,Automatic,586000,"Mulund West, Mumbai",6.521545584045584
+2017,Skoda, Rapid STYLE 1.6 MPI AT,84858,Petrol,Automatic,518000,"Goregaon, Mumbai",6.104315444625138
+2018,Skoda, Rapid STYLE 1.5 TDI AT,119830,Diesel,Automatic,652000,"Mulund West, Mumbai",5.441041475423517
+2018,Skoda, Rapid STYLE 1.6 MPI,64953,Petrol,Manual,676000,Seawoo,10.407525441473066
+2018,Skoda, Rapid STYLE 1.6 MPI,59417,Petrol,Manual,697000,"Mulund West, Mumbai",11.730649477422286
+2020,Skoda, Rapid STYLE TSI,33693,Petrol,Manual,977000,"Goregaon, Mumbai",28.997121063722435
+2017,Tata, Tiago XZ PETROL,37602,Petrol,Manual,390000,"Mulund West, Mumbai",10.371788734641774
+2018,Tata, TIGOR XZ PETROL,94586,Petrol,Manual,408000,"Goregaon, Mumbai",4.31353477258791
+2018,Tata, NEXON XZA PLUS DIESEL DUAL TONE,104792,Diesel,Automatic,668000,"Mulund West, Mumbai",6.374532407053974
+2018,Tata, Tiago XZ PETROL,76127,Petrol,Manual,411000,"Mulund West, Mumbai",5.3988729360148175
+2019,Tata, Harrier XZ 2.0L,52045,Diesel,Manual,1268000,"Goregaon, Mumbai",24.363531559227592
+2019,Tata, NEXON XZA PLUS DIESEL,51506,Diesel,Automatic,836000,"Goregaon, Mumbai",16.23111870461694
+2020,Tata, Tiago XZA PLUS PETROL,6375,Petrol,Automatic,608000,"Goregaon, Mumbai",95.37254901960785
+2020,Tata, NEXON XZA PLUS SUNROOF DIESEL,75525,Diesel,Automatic,986000,"Goregaon, Mumbai",13.055279708705726
+2020,Tata, ALTROZ XZ PETROL,71356,Petrol,Manual,669000,"Mulund West, Mumbai",9.375525533942486
+2020,Tata, ALTROZ XZ PETROL,11670,Petrol,Manual,693000,"Goregaon, Mumbai",59.383033419023135
+2021,Tata, NEXON XM SUNROOF PETROL,36460,Petrol,Manual,773000,"Mulund West, Mumbai",21.2013165112452
+2021,Tata, Tiago XE PETROL,10232,Petrol,Manual,544000,"Goregaon, Mumbai",53.16653635652854
+2021,Tata, NEXON XZA PLUS (O) PETROL,26213,Petrol,Automatic,1036000,"Goregaon, Mumbai",39.522374394384464
+2021,Tata, TIGOR XE PETROL,52153,Petrol,Manual,517000,"Mulund West, Mumbai",9.913140183690295
+2021,Tata, Harrier XZA PLUS 2.0L DARK EDITION,31539,Diesel,Automatic,1869000,"Goregaon, Mumbai",59.25996385427566
+2021,Tata, TIGOR XZA PLUS PETROL,39046,Petrol,Automatic,667000,"Goregaon, Mumbai",17.08241561235466
+2021,Tata, ALTROZ XT PETROL,43417,Petrol,Manual,650000,"Goregaon, Mumbai",14.971094271829006
+2021,Tata, NEXON XZ PETROL,13342,Petrol,Manual,861999,"Mulund West, Mumbai",64.60792984560035
+2022,Tata, ALTROZ XZA PLUS DARK EDTION,16783,Petrol,Automatic,807000,"Mulund West, Mumbai",48.084371089793244
+2022,Tata, NEXON XZ PLUS PETROL,18598,Petrol,Manual,898000,"Mulund West, Mumbai",48.284761802344335
+2022,Tata, ALTROZ XZA PLUS,2973,Petrol,Automatic,868000,"Goregaon, Mumbai",291.9609821728893
+2022,Tata, TIGOR XZ PLUS CNG,18438,CNG,Manual,708000,Seawoo,38.398958672307195
+2022,Tata, NEXON XZ PLUS PETROL SUNROOF,35275,Petrol,Manual,918000,"Mulund West, Mumbai",26.02409638554217
+2011,Toyota, Etios Liva G,79645,Petrol,Manual,225999,"Mulund West, Mumbai",2.837579257957185
+2011,Toyota, Etios Liva G,75420,Petrol,Manual,244000,"Goregaon, Mumbai",3.2352161230442853
+2011,Toyota, Etios Liva G,77595,Petrol,Manual,237000,Seawoo,3.054320510342161
+2018,Toyota, YARIS VX MT,30509,Petrol,Manual,783000,"Goregaon, Mumbai",25.6645579992789
+2018,Toyota, Corolla Altis VL CVT PETROL,77581,Petrol,Automatic,980000,"Mulund West, Mumbai",12.631958855905442
+2019,Toyota, Glanza G CVT,21695,Petrol,Automatic,677000,Seawoo,31.205346854113852
+2020,Toyota, Glanza V CVT,57023,Petrol,Automatic,683000,"Goregaon, Mumbai",11.977623064377532
+2012,Volkswagen, Vento TRENDLINE 1.6,54707,Petrol,Manual,262000,"Goregaon, Mumbai",4.7891494689893435
+2014,Volkswagen, Polo COMFORTLINE 1.2L,96926,Petrol,Manual,338000,Seawoo,3.48719641788581
+2015,Volkswagen, Polo COMFORTLINE 1.2L,30163,Petrol,Manual,407000,"Mulund West, Mumbai",13.493352783211218
+2016,Volkswagen, Ameo HIGHLINE1.2L,11546,Petrol,Manual,450000,Seawoo,38.974536636064435
+2016,Volkswagen, Ameo HIGHLINE1.2L,10117,Petrol,Manual,443000,"Mulund West, Mumbai",43.787684096075914
+2017,Volkswagen, Ameo HIGHLINE PLUS 1.5L AT 16 ALLOY,86579,Diesel,Automatic,513999,"Mulund West, Mumbai",5.9367629563751025
+2018,Volkswagen, Ameo TRENDLINE 1.0L,58154,Petrol,Manual,407000,"Goregaon, Mumbai",6.998658733707054
+2018,Volkswagen, Vento HIGHLINE PLUS 1.5 AT 16 ALLOY,70205,Diesel,Automatic,777000,"Goregaon, Mumbai",11.067587778648244
+2019,Volkswagen, Ameo COMFORTLINE 1.0L,34651,Petrol,Manual,572000,Seawoo,16.507460102161552
+2019,Volkswagen, Ameo HIGHLINE PLUS 1.5L AT 16 ALLOY,60683,Diesel,Automatic,700000,"Goregaon, Mumbai",11.535355865728457
+2020,Volkswagen, Vento HIGHLINE PLUS 1.0L TSI AT,89509,Petrol,Automatic,860000,"Mulund West, Mumbai",9.60797238266543
